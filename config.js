@@ -3,28 +3,28 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['6281390658325'],
-  ['6282256115584'],
-  ['6281319944687', 'BG', true]
+  ['6282284519515'],
+  ['6283189131519'],
+  ['6282284519515', 'AndiBoats', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.prems = ['6281214165112','6289648587591','6289697372984','6289526756742','6285707010740','6282268709890','6281330663257','6281213664377','6282280579322','6285803768665','6282171410554','6282317316169','6285220234277','60193218817','6285693602003','6281264673581','6285218151503','6282234343854','6283863092106','6281311988998','6287856736168','6282398441475','6288279557398','60178606751','6282142949818','6281332967405','6281358903152','6289652324835','6285706119522','6281256142388','6281315889325','6281366391843','6282284519559','6285713770474','6283159358233','6285709775415','6289530869609'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
   bg: 'http://bochil.ddns.net',
   xteam: 'https://api.xteam.xyz',
   zahir: 'https://zahirr-web.herokuapp.com',
-  zeks: 'https://api.zeks.xyz',
+  zeks: 'https://api.zeks.me',
   pencarikode: 'https://pencarikode.xyz',
   LeysCoder: 'https://leyscoders-api.herokuapp.com'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
-  'https://api.xteam.xyz': 'd90a9e986e18778b',
+  'https://api.xteam.xyz': '2f611590a3ce41fa',
   'https://zahirr-web.herokuapp.com': 'zahirgans',
-  'https://api.zeks.xyz': 'apivinz',
+  'https://api.zeks.me': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
