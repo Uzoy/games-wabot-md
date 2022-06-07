@@ -3,7 +3,7 @@ import db from '../lib/database.js'
 const items = {
     buy: {
         limit: {
-            exp: 999
+            exp: 350
         },
         potion: {
             money: 1250,
