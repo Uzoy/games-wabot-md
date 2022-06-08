@@ -1,7 +1,7 @@
 let handler =  m => m.reply(`
 ╭─「 Donasi • Pulsa 」
-│ • Indosat Ooredoo [082284519515]
-│ • Telkomsel [083189131519]
+│ • Telkomsel [082284519515]
+│ • Axis [083189131519]
 ╰────
 
 ╭─「 Masukin bot ke grup 」
