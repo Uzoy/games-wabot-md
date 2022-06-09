@@ -36,7 +36,7 @@ apt install npm -y
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
 git clone https://github.com/Uzoy/games-wabot-md
-cd games-wabot
+cd games-wabot-md
 npm i 
 npm i github:adiwajshing/baileys
 ```
