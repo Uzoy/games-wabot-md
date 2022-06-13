@@ -27,18 +27,7 @@
 ### FOR TERMUX USER
 1. Type mentioned below given commands one by one in Termux.
 ```sh
-apt update && apt full-upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-apt install imagemagick -y
-apt install npm -y
-curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
-apt install -y nodejs gcc g++ make
-git clone https://github.com/Uzoy/games-wabot-md
-cd games-wabot-md
-npm i 
-npm i github:adiwajshing/baileys
+apt update && apt upgrade && apt install git -y && apt install nodejs -y && apt install ffmpeg -y && apt install imagemagick -y && apt install npm -y && curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash - && apt install -y nodejs gcc g++ make && git clone https://github.com/Uzoy/games-wabot-md && cd games-wabot-md && npm i && npm i github:adiwajshing/baileys
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
 ```sh
