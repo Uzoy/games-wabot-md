@@ -33,7 +33,7 @@ let tags = {
 }
 const defaultMenu = {
   before: `
-╭─「 %me 🤖」
+╭─「 %me 」
 │ 👋🏻 Hai, %name!
 │
 │ 🧱 Limit : *%limit Limit*
