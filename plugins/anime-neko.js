@@ -8,7 +8,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     conn.sendButton(m.chat, 'Nyaa~', author, json.url, [['meong', `${usedPrefix}neko`]], m)
 }
 handler.help = ['neko']
-handler.tags = ['internet']
+handler.tags = ['Anime']
 handler.command = /^(neko)$/i
 //MADE IN ERPAN 1140 BERKOLABORASI DENGAN BTS
 export default handler
