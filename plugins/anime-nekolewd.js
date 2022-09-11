@@ -8,7 +8,7 @@ let handler = async (m, { conn, usedPrefix }) => {
     conn.sendButton(m.chat, 'selera yg aneh tapi ok lu yg bos', author, json.url, [['lagi;)', `${usedPrefix}nekolewd`]], m)
 }
 handler.help = ['nekolewd']
-handler.tags = ['NSFW']
+handler.tags = ['Anime']
 handler.command = /^(nekolewd)$/i
 handler.private = true
 //MADE IN ERPAN 1140 BERKOLABORASI DENGAN BTS
